@@ -1,0 +1,274 @@
+Plate information 
+Plate,Repeat,Barcode,Measurement date,Chamber temperature at start,Chamber temperature at end,Ambient temperature at start,Ambient temperature at end,
+1,1,="",6/08/2020 5:27:37 p.m.,25.8,25.85,28.8,28.8,
+
+
+No background information available.
+
+
+Well,Calc3:Ratio,Calc1:Average within well,Calc2:Average within well,
+A01,3.79543997802,41450,10921,
+A02,3.88576433708,42145,10846,
+A03,3.87678554972,42067,10851,
+A04,3.88476226847,40689,10474,
+A05,3.828487335,42925,11212,
+A06,3.68853333333,41496,11250,
+A07,3.83667541229,40945,10672,
+A08,3.81550997986,41673,10922,
+A09,3.72944464479,41367,11092,
+A10,3.70913101015,42043,11335,
+A11,3.9748135232,41032,10323,
+A12,2.47246916133,35878,14511,
+B01,3.95671486627,41866,10581,
+B02,3.40646384698,41317,12129,
+B03,3.56287529371,40941,11491,
+B04,3.9437037037,42592,10800,
+B05,3.65269042628,41816,11448,
+B06,2.98326296743,39570,13264,
+B07,3.95988772184,43733,11044,
+B08,3.874749499,42537,10978,
+B09,3.21503247268,40593,12626,
+B10,3.00862327534,40123,13336,
+B11,3.83778660408,42515,11078,
+B12,2.19106670585,37281,17015,
+C01,3.99808394161,43819,10960,
+C02,2.52979994443,36419,14396,
+C03,2.56816134174,37056,14429,
+C04,3.485263069,41269,11841,
+C05,2.79091242213,38082,13645,
+C06,2.45480074886,36714,14956,
+C07,3.56628868616,41829,11729,
+C08,3.18552505586,39921,12532,
+C09,2.57922272048,37961,14718,
+C10,2.37223690146,36810,15517,
+C11,3.22821408268,39749,12313,
+C12,2.14797631402,35186,16381,
+D01,3.98131993173,41987,10546,
+D02,2.27013054155,35128,15474,
+D03,2.32032814418,35921,15481,
+D04,2.7741888969,38478,13870,
+D05,2.38943198518,37397,15651,
+D06,2.29641734758,36536,15910,
+D07,2.73659227772,38627,14115,
+D08,2.55121660147,38480,15083,
+D09,2.3112591183,36437,15765,
+D10,2.22523076923,36160,16250,
+D11,2.44352933665,38273,15663,
+D12,2.18610639668,37354,17087,
+E01,3.99304793267,43652,10932,
+E02,2.22090469917,35399,15939,
+E03,2.23561450724,34889,15606,
+E04,2.42877057886,36587,15064,
+E05,2.33288323045,36281,15552,
+E06,2.23001937137,35687,16003,
+E07,2.34226817283,36701,15669,
+E08,2.33522333522,37067,15873,
+E09,2.21040391677,36118,16340,
+E10,2.22004112918,35625,16047,
+E11,2.23850295129,34511,15417,
+E12,2.15154451847,35522,16510,
+F01,4.0654931655,41342,10169,
+F02,2.20317480971,33865,15371,
+F03,2.53156033193,37219,14702,
+F04,2.29245402663,36152,15770,
+F05,2.23900012753,35112,15682,
+F06,2.21785381026,35652,16075,
+F07,2.25599848857,35823,15879,
+F08,2.29255388635,35099,15310,
+F09,2.23611549883,35391,15827,
+F10,2.18606379684,35294,16145,
+F11,2.19269776876,34592,15776,
+F12,2.16358205459,36941,17074,
+G01,4.00591608264,44013,10987,
+G02,2.23363424026,35383,15841,
+G03,2.21779741243,35141,15845,
+G04,2.27194820034,35790,15753,
+G05,2.19733399776,35276,16054,
+G06,2.2207076027,35840,16139,
+G07,2.21698813056,35862,16176,
+G08,2.18826108134,35940,16424,
+G09,2.24195463351,35878,16003,
+G10,2.16023320037,35201,16295,
+G11,2.20216517167,35598,16165,
+G12,2.18051137754,35647,16348,
+H01,4.06304587893,40472,9961.0,
+H02,2.18972105464,34383,15702,
+H03,2.18957078313,34893,15936,
+H04,2.17094842573,33717,15531,
+H05,2.17440557699,34934,16066,
+H06,2.18472325639,35209,16116,
+H07,2.21474806448,34900,15758,
+H08,2.19301745636,35176,16040,
+H09,2.1850956953,34365,15727,
+H10,2.1319891143,34470,16168,
+H11,2.15854487061,34949,16191,
+H12,2.10877486411,35303,16741,
+
+Basic assay information 
+Assay ID: ,,,,950
+Assay Started: ,,,,6/08/2020 5:26:27 p.m.
+Assay Finished: ,,,,6/08/2020 5:27:45 p.m.
+Assay Exported: ,,,,6/08/2020 5:28:11 p.m.
+Assay Started By: ,,,,N/A
+Protocol ID: ,,,,100132
+Protocol Name: ,,,,Mark eCFP-Venus
+Serial#: ,,,,="23000214"
+
+
+
+Protocol information
+Protocol:
+Protocol name,,,,Mark eCFP-Venus
+Number of assay repeats,,,,1
+Start assay repeat each,,,,N/A
+Number of plate repeats,,,,1
+Start plate repeat each,,,,N/A
+Mode of measurement,,,,By Rows  bi-directional
+Rotated plate,,,,No
+Soft move,,,,No
+Protocol notes,,,,Imported from instrument Jimmy SerialNumber: 23000214Imported from instrument EnSpire SerialNumber: 23000214Imported from instrument EnSpire SerialNumber: 23000214
+
+Plate type:
+Name of the plate type,,,,96 General
+Number of rows,,,,8
+Number of columns,,,,12
+Number of the wells in the plate,,,,96
+Height of the plate,,,,14.35 mm
+Diameter of the well,,,,6.5 mm
+Volume of the well,,,,300 µl
+
+Coordinates of corners:
+96 General
+14.38 mm x------------------------------------------------------ x 113.38 mm
+11.24 mm                                                           11.24 mm
+
+14.38 mm x------------------------------------------------------ x 113.38 mm
+74.24 mm                                                           74.24 mm
+
+Platemap:
+Plate,,,,1
+
+,01,02,03,04,05,06,07,08,09,10,11,12,
+A,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+B,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+C,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+D,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+E,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+F,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+G,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+H,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- ,- 
+
+ - - Undefined
+
+Calculations:
+Plate,,,,1
+ Formula index,,,,Calc 1
+ Formula name,,,,Average within well
+ Formula,,,,Average within well where Measurement: A
+
+ Formula index,,,,Calc 2
+ Formula name,,,,Average within well
+ Formula,,,,Average within well where Measurement: B
+
+ Formula index,,,,Calc 3
+ Formula name,,,,Ratio
+ Formula,,,,Ratio where X = Calc 1: Average within well Y = Calc 2: Average within well
+
+Auto export parameters:
+Export format,,,,ListC
+Picture,,,,No
+Add plate number to the file name,,,,Yes
+Each plate to separate file,,,,No
+Field separator to use,,,,System
+File name format,,,,D:\mark\20004_IC50\SARS-CoV-2_TX50_1_3.csv
+Exported data,,,,Well Calc3:Ratio Calc1:Average within well Calc2:Average within well
+
+Operations:
+Plate 1
+  Scan measurement
+    Meas,,,,A
+    Tech,,,,Fluorescence
+    Number of horizontal points (X),,,,1
+    Number of vertical points (Y),,,,1
+    Distance between points,,,,0.72 mm
+    Scan mode,,,,Rectangle
+  Scan measurement
+    Meas,,,,B
+    Tech,,,,Fluorescence
+    Number of horizontal points (X),,,,1
+    Number of vertical points (Y),,,,1
+    Distance between points,,,,0.72 mm
+    Scan mode,,,,Rectangle
+
+Measurements:
+Meas ,,,,A
+Exc. filter,,,,N/A
+Using of excitation filter,,,,Top
+Excitation wavelength,,,,434 nm
+Emission wavelength,,,,528 nm
+Measurement height,,,,7.5 mm
+Number of flashes,,,,40
+Number of flashes integrated,,,,40
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Emission light,,,,100%
+Reference AD gain,,,,2
+Reference signal,,,,3015292
+Last edited,,,,8/07/2020 8:57:00 a.m.
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Meas ,,,,B
+Exc. filter,,,,N/A
+Using of excitation filter,,,,Top
+Excitation wavelength,,,,434 nm
+Emission wavelength,,,,477 nm
+Measurement height,,,,7.5 mm
+Number of flashes,,,,40
+Number of flashes integrated,,,,40
+Flash power,,,,100 %
+Excitation light,,,,100%
+Reference excitation light,,,,100%
+Emission light,,,,100%
+Reference AD gain,,,,2
+Reference signal,,,,3021957
+Last edited,,,,8/07/2020 8:57:00 a.m.
+Last edited by,,,,EnSpire
+Factory preset,,,,No
+
+Filters:
+Monochromator cutoff 230,,,,140
+Filter polarization,,,,None
+Description,,,,X230co Longpass=230nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 360,,,,141
+Filter polarization,,,,None
+Description,,,,X360co Longpass=360nm  Tmin=90%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Monochromator cutoff 585,,,,142
+Filter polarization,,,,None
+Description,,,,X585co Longpass=585nm  Tmin=75%
+Used with
+Last edited,,,,1/01/2011
+Last edited by,,,,Installation
+Factory preset,,,,Yes
+
+Instrument:
+Serial number,,,,23000214
+Nickname,,,,ZEnSpire
+
+
+
+
+
+
+Exported with EnSpire Workstation version 4.10.3005.1440
